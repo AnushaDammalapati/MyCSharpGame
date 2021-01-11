@@ -1,0 +1,10 @@
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\bin\Debug\MyCSharpGame.exe.config
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\bin\Debug\MyCSharpGame.exe
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\bin\Debug\MyCSharpGame.pdb
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.Form1.resources
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.Properties.Resources.resources
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.csproj.GenerateResource.cache
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.csproj.CoreCompileInputs.cache
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.exe
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.pdb
+C:\Users\Anusha\source\repos\MyCSharpGame\MyCSharpGame\obj\Debug\MyCSharpGame.csprojAssemblyReference.cache
